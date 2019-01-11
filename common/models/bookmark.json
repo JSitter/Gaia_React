@@ -1,7 +1,7 @@
 {
-  "name": "bookmark",
+  "name": "Bookmark",
   "base": "PersistedModel",
-  "idInjection": true,
+  "idInjection": false,
   "options": {
     "validateUpsert": true
   },
