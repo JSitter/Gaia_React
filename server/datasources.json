@@ -1,12 +1,12 @@
 {
   "db": {
-    "host": "localhost",
+    "host": "ec2-54-235-67-106.compute-1.amazonaws.com",
+    "database": "dchu2horch09n",
+    "user": "jvhwsukqjmqnyy",
     "port": 5432,
-    "url": "",
-    "database": "gaia",
-    "password": "",
+    "password": "ec4af2fcf3e406220a364e18e2063eb08033a69c7852c86d07fe4be78913dd13",
+    "url": "postgres://jvhwsukqjmqnyy:ec4af2fcf3e406220a364e18e2063eb08033a69c7852c86d07fe4be78913dd13@ec2-54-235-67-106.compute-1.amazonaws.com:5432/dchu2horch09n",
     "name": "db",
-    "user": "justin",
     "connector": "postgresql"
   }
 }
